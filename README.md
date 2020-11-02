@@ -74,7 +74,7 @@ Correlation and Regression </br>
 ![capomulin line graph Out put](./Pymaceuticals/Images/capomulin_line_graph.png)
 
 ## Scatter Plot
-- A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen was created.
+- A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen was created. </br>
 
   - A scatter plot looks as follows: </br>
 ![capomulin regression Out put](./Pymaceuticals/Images/capomulin_scatterplot.png)
